@@ -13,6 +13,16 @@ This repository serves as a showcase of my skills, a platform to share my projec
 ## Portfolio Projects - Data Analysis
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
+Data Analysis specialized knowledge:
+- Database management
+- Data mining & visualization
+- Information systems management
+- Knowledge management & business intelligence
+- Programming for data analytics: Python & R
+- Querying for data analytics: SQL
+- Data analytics for decision making
+- Big data and cloud-based tools
+
 ### Kaggle Titanic Competition (2021)
 **Code:**    
 **Description:** https://www.kaggle.com/c/titanic
@@ -37,7 +47,18 @@ In this section I will list data analytics projects briefly describing the techn
 **Technology/Skills:** Microsoft Access, SQL
 **Results:** 
 
+### Haunted Locations in the U.S. Data Visualization Project (2021)
+**Code:**    
+**Description:** 
+**Technology/Skills:** Tableau
+**Results:** 
+**Tableau Public Site:** https://public.tableau.com/app/profile/myra.veltkamp/viz/DataVizProject1_5/HowHauntedistheUSA
 
+### 911 Calls Data Visualization Project (2021)
+**Code:**    
+**Description:** 
+**Technology/Skills:** Power BI
+**Results:** 
 
 
 
@@ -52,6 +73,13 @@ In this section I will list data analytics projects briefly describing the techn
 ## Portfolio Projects - Business Analysis
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
+Business Analysis specialized knowledge:
+- Technical assistance, support, triage, research, and troubleshooting for enterprise data systems in support of internal stakeholders and systems users.
+- Assists business units with the transition of resources, individuals, and business processes impacted by projects. 
+- Leads the planning, review, and execution of select university projects. 
+- Translates and communicates the needs of end users with developers and advocates for progress and improvement of campus systems.
+- Maintains institutional data integrity and aids with business intelligence and reporting.
+- Defines and promotes effective documentation internally and externally to IT.
 
 
 

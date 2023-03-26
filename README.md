@@ -52,7 +52,6 @@ Data Analysis specialized knowledge:
 **Description:** 
 **Technology/Skills:** Tableau
 **Results:** 
-**Tableau Public Site:** https://public.tableau.com/app/profile/myra.veltkamp/viz/DataVizProject1_5/HowHauntedistheUSA
 
 ### 911 Calls Data Visualization Project (2021)
 **Code:**    
@@ -60,7 +59,11 @@ Data Analysis specialized knowledge:
 **Technology/Skills:** Power BI
 **Results:** 
 
-
+### W.H.O. Suicide Statistics Programming Project (2021)
+**Code:** file:///C:/Users/mevel/Downloads/ISM%206353%20Project%20-%20WHO%20Suicide%20Statistics.html
+**Description:** 
+**Technology/Skills:** Jupyter Notebook, Python: pandas, numpy, seaborn, statsmodels, sklearn, matplotlib
+**Results:** 
 
 
 

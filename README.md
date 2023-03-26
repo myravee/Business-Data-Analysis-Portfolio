@@ -10,7 +10,7 @@ I underwent a major career change that began in 2020 with a transition from even
 This repository serves as a showcase of my skills, a platform to share my projects, and a way to track my progress in business analysis.  
 <br>
 
-## Portfolio Projects
+## Portfolio Projects - Data Analysis
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
 ### Kaggle Titanic Competition (2021)
@@ -38,6 +38,19 @@ In this section I will list data analytics projects briefly describing the techn
 **Results:** 
 
 
+
+
+
+
+
+
+
+
+
+
+
+## Portfolio Projects - Business Analysis
+In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
 
 

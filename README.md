@@ -13,8 +13,46 @@ This repository serves as a showcase of my skills, a platform to share my projec
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
-### Kaggle Titanic Competition
+### Kaggle Titanic Competition (2021)
 **Code:**    
 **Description:** https://www.kaggle.com/c/titanic
-**Technology:** RapidMiner 
+**Technology/Skills:** RapidMiner 
 **Results:** 
+
+### Shark Attacks Data Mining Project (2021)
+**Code:**    
+**Description:** 
+**Technology/Skills:** Orange
+**Results:** 
+
+### Airline Tweets Sentiment Analysis Project (2021)
+**Code:**    
+**Description:** 
+**Technology/Skills:** RapidMiner
+**Results:** 
+
+### Student Employee Database Project (2021)
+**Code:**    
+**Description:** 
+**Technology/Skills:** Microsoft Access, SQL
+**Results:** 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -62,11 +62,20 @@ Data Analysis specialized knowledge:
 ### W.H.O. Suicide Statistics Programming Project (2021)
 **Code:** file:///C:/Users/mevel/Downloads/ISM%206353%20Project%20-%20WHO%20Suicide%20Statistics.html
 **Description:** 
-**Technology/Skills:** Jupyter Notebook, Python: pandas, numpy, seaborn, statsmodels, sklearn, matplotlib
+**Technology/Skills:** Anaconda, Jupyter Notebook, Python: pandas, numpy, seaborn, statsmodels, sklearn, matplotlib
 **Results:** 
 
+### Animal Shelter Adoption Outcomes Programming Project (2022)
+**Code:**    
+**Description:** 
+**Technology/Skills:** R Studio, R: ggplot2, tidyverse, dplry, Metrics, MASS, truncreg, AER, survival, survminer, stringr, caret, pROC, kernlab, e1071, fastAdaboost, caTools, mboost, gbm, LiblineaR, randomForest
+**Results:** 
 
-
+### Video Game Sales Programming Project (2022)
+**Code:**    
+**Description:** 
+**Technology/Skills:** Anaconda, Jupyter Notebook, Python: pandas, numpy, math, seaborn, scipy, matplotlib, sklearn, statsmodels, Prophet, pulp
+**Results:** 
 
 
 
